@@ -1,0 +1,853 @@
+WEBVTT
+
+00:00:00.080 --> 00:00:02.000
+La ruta de backend tampoco ha cambiado
+
+00:00:02.000 --> 00:00:03.800
+mucho. vamos a colocar acá. Sí se agregó
+
+00:00:03.800 --> 00:00:05.680
+una pequeña cosa que vendría siendo todo
+
+00:00:05.680 --> 00:00:07.240
+lo relacionado a machine learning e
+
+00:00:07.240 --> 00:00:08.680
+inteligencia artificial. así que acá
+
+00:00:08.680 --> 00:00:10.800
+vamos a colocar ruta backend
+
+00:00:11.040 --> 00:00:14.001
+2025 en la ruta de Backend.
+
+00:00:14.001 --> 00:00:16.321
+Van a tener que aprender sí o sí. sin
+
+00:00:16.321 --> 00:00:18.241
+ninguna excepción. ¿Aquí esto no se lo
+
+00:00:18.241 --> 00:00:19.881
+pueden saltar un lenguaje de backend.
+
+00:00:20.161 --> 00:00:22.321
+además del lenguaje de backend. que aquí
+
+00:00:22.401 --> 00:00:24.441
+tienen varias opciones. ustedes tienen?
+
+00:00:24.681 --> 00:00:26.881
+Javascript. que en este caso lo pueden
+
+00:00:26.881 --> 00:00:29.481
+utilizar con Note JS vamos a colocarla
+
+00:00:29.481 --> 00:00:32.201
+acá node también tenemos Band. Vamos a
+
+00:00:32.201 --> 00:00:33.561
+dejarlo solamente con estos dos. porque
+
+00:00:33.561 --> 00:00:35.001
+en verdad lo más importante es que
+
+00:00:35.001 --> 00:00:36.281
+ustedes aprendan Note. porque todo el
+
+00:00:36.281 --> 00:00:37.761
+resto es prácticamente lo mismo. Además
+
+00:00:37.761 --> 00:00:39.041
+del lenguaje de back. en javascript
+
+00:00:39.041 --> 00:00:41.362
+también tenemos Java. también tenemos
+
+00:00:41.362 --> 00:00:44.002
+Python. también tenemos c
+
+00:00:44.002 --> 00:00:46.562
+Sharp y también tenemos
+
+00:00:46.682 --> 00:00:49.322
+PHP. los más populares en la actualidad
+
+00:00:49.442 --> 00:00:51.842
+de los que más está solicitando trabajo.
+
+00:00:52.322 --> 00:00:54.082
+Y también el que tiene el mayor interés
+
+00:00:54.082 --> 00:00:56.402
+de los alumnos por aprender son
+
+00:00:56.442 --> 00:00:59.402
+Javascript. Java y Python. Esos
+
+00:00:59.402 --> 00:01:01.922
+son los 3 que más interés por parte de
+
+00:01:01.922 --> 00:01:04.682
+los estudiantes hay y también son los que
+
+00:01:04.682 --> 00:01:07.483
+más trabajo están dando. C Sharp. sí. acá
+
+00:01:07.483 --> 00:01:09.683
+se encuentra c Sharp c el lenguaje de C
+
+00:01:09.683 --> 00:01:11.403
+El lenguaje de C es popular. pero no es
+
+00:01:11.403 --> 00:01:12.683
+tan popular todavía. Ahora se utiliza
+
+00:01:12.683 --> 00:01:14.123
+muchísimo porque los sistemas operativos.
+
+00:01:14.123 --> 00:01:15.803
+la mayoría están escritos en C. pero si
+
+00:01:15.803 --> 00:01:17.483
+ustedes van a buscar trabajos como
+
+00:01:17.483 --> 00:01:19.483
+desarrollador. los que más van a
+
+00:01:19.483 --> 00:01:21.443
+encontrar trabajos respecto a eso van a
+
+00:01:21.443 --> 00:01:23.283
+ser de estos 3. Además del lenguaje de
+
+00:01:23.283 --> 00:01:24.803
+backend. ustedes van a tener que aprender
+
+00:01:24.803 --> 00:01:26.283
+un framework. yo voy a aprovechar de
+
+00:01:26.283 --> 00:01:27.683
+eliminar todo esto. van a tener que
+
+00:01:27.683 --> 00:01:29.923
+aprender un framework dentro de los
+
+00:01:29.923 --> 00:01:32.083
+framework. Tenemos a Spring.
+
+00:01:32.283 --> 00:01:35.244
+tenemos este Spring es para Java. tenemos
+
+00:01:35.244 --> 00:01:37.924
+también a yango y yango es. Para Python y
+
+00:01:37.924 --> 00:01:40.564
+tenemos a Express que Express es para
+
+00:01:40.604 --> 00:01:43.404
+javascript con node también de manera
+
+00:01:43.404 --> 00:01:46.164
+opcional pueden aprender typescript. Esto
+
+00:01:46.164 --> 00:01:48.604
+es igual que con la ruta de Front end. En
+
+00:01:48.604 --> 00:01:49.844
+el caso de que ustedes aprendan
+
+00:01:49.844 --> 00:01:51.364
+typescript. van a aumentar sus
+
+00:01:51.364 --> 00:01:52.964
+posibilidades de poder encontrar trabajo
+
+00:01:52.964 --> 00:01:54.444
+para empresas que utilizan typescript.
+
+00:01:54.564 --> 00:01:56.284
+pero si es que no lo aprenden también
+
+00:01:56.284 --> 00:01:59.044
+eventualmente. ¿Van a encontrar trabajo
+
+00:01:59.044 --> 00:02:00.884
+en otras empresas que no están utilizando
+
+00:02:00.884 --> 00:02:02.645
+time script sí o sí? Deberían aprender
+
+00:02:02.645 --> 00:02:04.765
+primero javascript y y después ustedes
+
+00:02:04.765 --> 00:02:06.725
+quieren mejorar sus posibilidades después
+
+00:02:06.725 --> 00:02:08.565
+de haber pasado por toda la ruta. ¿Pueden
+
+00:02:08.565 --> 00:02:10.405
+aprender time script?Además de framework.
+
+00:02:10.645 --> 00:02:13.245
+tienen que aprender bases de datos y en
+
+00:02:13.245 --> 00:02:15.925
+bases de datos tenemos a Mongo
+
+00:02:16.045 --> 00:02:18.805
+DBY. también tenemos my SQL.
+
+00:02:18.885 --> 00:02:21.685
+¿Por qué digo mongo DBY my SQLY? No digo
+
+00:02:21.685 --> 00:02:23.285
+otros motores de bases de datos como por
+
+00:02:23.285 --> 00:02:25.645
+ejemplo podría ser postgres Q l o o
+
+00:02:25.845 --> 00:02:28.046
+también podría ser coach d B o podría ser
+
+00:02:28.046 --> 00:02:30.326
+dynamo DB. porque ustedes aprendiendo las
+
+00:02:30.326 --> 00:02:33.286
+bases de Mongo DBY de my SQL. ustedes
+
+00:02:33.286 --> 00:02:35.086
+después pueden irse a cualquier empresa
+
+00:02:35.086 --> 00:02:36.646
+que utilice otro motor de base de datos.
+
+00:02:36.766 --> 00:02:39.126
+como por ejemplo Oracle por ejemplo
+
+00:02:39.126 --> 00:02:41.526
+también. Postgres y lo que ustedes
+
+00:02:41.526 --> 00:02:43.846
+aprendan acá de my s. Q. l o de POSTGRES
+
+00:02:43.966 --> 00:02:46.886
+van a poder utilizarlo también el 95 por
+
+00:02:46.886 --> 00:02:49.766
+199% de las funcionalidades lo van a
+
+00:02:49.766 --> 00:02:51.406
+poder utilizar en todos los otros
+
+00:02:51.406 --> 00:02:53.686
+gestores de bases de datos que utilicen
+
+00:02:53.686 --> 00:02:56.647
+SQL. De misma manera tenemos esto
+
+00:02:56.647 --> 00:02:59.487
+con mongo mongo funciona distinto
+
+00:02:59.487 --> 00:03:01.007
+a otros motores de bases de datos. como
+
+00:03:01.007 --> 00:03:03.367
+por ejemplo Kach DB. dynamo DB. Pero en
+
+00:03:03.367 --> 00:03:06.047
+principio lo que esto busca es poder
+
+00:03:06.127 --> 00:03:07.727
+guardar documentos en lugar de
+
+00:03:07.727 --> 00:03:09.967
+relaciones. Entonces ustedes van a tener
+
+00:03:09.967 --> 00:03:11.607
+que hacer las relaciones después en el
+
+00:03:11.607 --> 00:03:14.087
+Código y se tienen que encargar de
+
+00:03:14.087 --> 00:03:16.167
+guardar los datos en Mongo DB de una
+
+00:03:16.167 --> 00:03:18.567
+manera distinta a my SQL. Si ustedes
+
+00:03:18.567 --> 00:03:19.967
+creen que aquí lo más probable. alguien
+
+00:03:19.967 --> 00:03:21.768
+lo diga. que los datos se tienen que
+
+00:03:21.768 --> 00:03:23.648
+guardar en mongo DB. exactamente igual
+
+00:03:23.648 --> 00:03:25.488
+que en my SQL. Esto quiere decir
+
+00:03:25.488 --> 00:03:26.888
+generando estas llaves primarias para
+
+00:03:26.888 --> 00:03:28.808
+poder hacer relaciones. En ese caso yo te
+
+00:03:28.808 --> 00:03:30.688
+sugiero que en lugar de utilizar mongo DB
+
+00:03:30.808 --> 00:03:32.728
+utilices SQL. porque si vas a hacer
+
+00:03:32.728 --> 00:03:35.128
+relaciones SQL es mucho mejor que mongo.
+
+00:03:35.208 --> 00:03:37.008
+mucho. mucho. mucho mejor. Mongo DB tiene
+
+00:03:37.008 --> 00:03:38.648
+sus beneficios. pero las relaciones no
+
+00:03:38.648 --> 00:03:40.688
+son su fuerte. Y qué relaciones motor de
+
+00:03:40.688 --> 00:03:43.088
+base de datos SQL. Entonces tenemos el
+
+00:03:43.088 --> 00:03:44.808
+lenguaje. tenemos el framework. tenemos
+
+00:03:44.808 --> 00:03:47.048
+las bases de datos y acá también yo
+
+00:03:47.048 --> 00:03:49.129
+agregaría machine. Learning machine
+
+00:03:49.129 --> 00:03:50.449
+Learning es una forma que nosotros
+
+00:03:50.449 --> 00:03:52.409
+tenemos para poder crear estas famosas
+
+00:03:52.449 --> 00:03:54.689
+inteligencias artificiales. Tú puedes
+
+00:03:54.689 --> 00:03:56.449
+decir voy a meterle machine learning a
+
+00:03:56.449 --> 00:03:58.129
+esto y lo que estás haciendo es que estás
+
+00:03:58.129 --> 00:03:59.409
+entrenando un modelo. Tú puedes
+
+00:03:59.409 --> 00:04:01.609
+perfectamente crearte un modelo que se
+
+00:04:01.609 --> 00:04:04.129
+encargue de identificar si es que un
+
+00:04:04.129 --> 00:04:06.089
+estacionamiento se encuentra vacío o no.
+
+00:04:06.209 --> 00:04:08.049
+¿Cómo se hace esto? Tú lo que haces es
+
+00:04:08.049 --> 00:04:10.169
+que sacas una foto del estacionamiento.
+
+00:04:10.329 --> 00:04:11.889
+vamos a suponer un estacionamiento de
+
+00:04:11.889 --> 00:04:13.609
+supermercado. entonces aquí se encuentra
+
+00:04:13.609 --> 00:04:16.050
+el supermercado. este es mi supermercado.
+
+00:04:16.050 --> 00:04:17.410
+obra de arte y acá nosotros vamos a
+
+00:04:17.410 --> 00:04:19.210
+empezar a colocar. Los estacionamientos
+
+00:04:19.210 --> 00:04:21.490
+acá tenemos estacionamiento 1. 2. 3. 4 y
+
+00:04:21.490 --> 00:04:23.090
+lo vamos a dejar solamente hasta acá para
+
+00:04:23.090 --> 00:04:24.570
+que tengamos una buena idea. entonces
+
+00:04:24.570 --> 00:04:26.450
+nosotros vamos a tener nuestra Cámara
+
+00:04:26.450 --> 00:04:29.250
+super 8 K aquí colocada
+
+00:04:29.410 --> 00:04:31.330
+y que se va a encargar de tomarle fotos a
+
+00:04:31.330 --> 00:04:33.690
+todo el estacionamiento. entonces la foto
+
+00:04:33.690 --> 00:04:35.970
+que nosotros le pasemos a esto va a ser
+
+00:04:35.970 --> 00:04:37.770
+cuando este estacionamiento se encuentre
+
+00:04:37.770 --> 00:04:39.730
+vacío. entonces se va a ver así tal cual
+
+00:04:39.890 --> 00:04:41.290
+y después lo que hacemos es que le
+
+00:04:41.290 --> 00:04:43.051
+empezamos a pasar fotos con este mismo
+
+00:04:43.051 --> 00:04:44.571
+estacionamiento preocupado por autos.
+
+00:04:44.691 --> 00:04:46.651
+vamos a colocarlo ocupado con una
+
+00:04:46.651 --> 00:04:48.931
+bicicleta hermosa mi. Bicicleta. es la
+
+00:04:48.931 --> 00:04:50.211
+bicicleta más horrible que he dibujado.
+
+00:04:50.211 --> 00:04:51.611
+Perdón. De hecho parece como monopatín.
+
+00:04:51.731 --> 00:04:53.251
+En fin. lo vamos a pasar con una
+
+00:04:53.251 --> 00:04:55.171
+bicicleta. También se lo vamos a pasar
+
+00:04:55.171 --> 00:04:57.851
+con un auto. se lo vamos a pasar
+
+00:04:57.851 --> 00:05:00.011
+también con una moto por favor que me
+
+00:05:00.011 --> 00:05:01.691
+quede bien la moto ahora horrorosa la
+
+00:05:01.691 --> 00:05:04.411
+moto. Pero bueno. ya ahí está la moto. lo
+
+00:05:04.411 --> 00:05:06.291
+vamos a pasar también con un scooter y se
+
+00:05:06.291 --> 00:05:09.171
+lo vamos a pasar también con por ejemplo
+
+00:05:09.171 --> 00:05:11.972
+un unas cuantas personas acá. Entonces en
+
+00:05:11.972 --> 00:05:13.692
+nuestro software de Machine Learning
+
+00:05:13.892 --> 00:05:15.932
+nosotros le vamos a indicar. cuando
+
+00:05:15.932 --> 00:05:18.172
+exista una bicicleta. acá la vamos a
+
+00:05:18.172 --> 00:05:20.852
+marcar por ejemplo en color rojo para
+
+00:05:20.852 --> 00:05:22.772
+decir que este se encuentra ocupado.
+
+00:05:22.852 --> 00:05:25.172
+Cuando se encuentre un auto también lo
+
+00:05:25.172 --> 00:05:27.572
+vamos a marcar como ocupado. Cuando
+
+00:05:27.572 --> 00:05:29.812
+exista una moto también lo vamos a marcar
+
+00:05:29.812 --> 00:05:31.852
+como ocupado. Cuando nosotros veamos esta
+
+00:05:31.852 --> 00:05:33.932
+cosa que se encuentra acá al scooter. le
+
+00:05:33.932 --> 00:05:35.612
+vamos a decir no. pues corre el scooter
+
+00:05:35.612 --> 00:05:37.493
+por nada que ver. así que lo vamos a
+
+00:05:37.493 --> 00:05:40.013
+marcar como verde y también si es que
+
+00:05:40.013 --> 00:05:42.053
+existen personas que por alguna razón se
+
+00:05:42.053 --> 00:05:44.253
+dieron. no saben dónde pararse a
+
+00:05:44.253 --> 00:05:46.853
+conversar. también lo vamos a marcar como
+
+00:05:46.853 --> 00:05:48.693
+verde y además también lo vamos a marcar
+
+00:05:48.693 --> 00:05:50.213
+como verde en el caso que este
+
+00:05:50.213 --> 00:05:51.413
+estacionamiento se encuentra
+
+00:05:51.413 --> 00:05:53.933
+completamente desocupado. Ahora todo
+
+00:05:53.933 --> 00:05:56.253
+esto nosotros lo hacemos entrenando
+
+00:05:56.253 --> 00:05:58.933
+modelos. Con machine Learning y
+
+00:05:58.933 --> 00:06:00.933
+Machine Learning actualmente el mejor
+
+00:06:00.933 --> 00:06:02.333
+lenguaje que nosotros tenemos en este
+
+00:06:02.333 --> 00:06:03.694
+momento. También la herramienta. el que
+
+00:06:03.694 --> 00:06:05.054
+tiene la mayor documentación. el que
+
+00:06:05.054 --> 00:06:07.214
+tiene absolutamente de todo para poder
+
+00:06:07.334 --> 00:06:08.934
+crear modelos de machine learning.
+
+00:06:08.934 --> 00:06:11.254
+Indiscutiblemente es Python. Hasta el
+
+00:06:11.254 --> 00:06:12.614
+momento no hay nada mejor que Python para
+
+00:06:12.614 --> 00:06:14.574
+poder crear aplicaciones como machine
+
+00:06:14.574 --> 00:06:16.174
+Learning e inteligencia artificial.
+
+00:06:16.174 --> 00:06:17.654
+Douglas Herrera diría Nico. yo le
+
+00:06:17.654 --> 00:06:19.534
+agregaría el uso de redis o Men caché
+
+00:06:19.534 --> 00:06:21.134
+para manejar la memoria caché de la
+
+00:06:21.134 --> 00:06:23.214
+aplicación. Es que eso agrega valor. no
+
+00:06:23.214 --> 00:06:25.654
+te voy a decir que no. pero ya estamos
+
+00:06:25.654 --> 00:06:27.614
+empezando a ver optimizaciones de la
+
+00:06:27.614 --> 00:06:29.854
+aplicación que te van a agregar valor.
+
+00:06:29.974 --> 00:06:31.735
+¿Puede ser que ganes más dinero. pero no
+
+00:06:31.735 --> 00:06:33.415
+es el mínimo necesario para que tú puedas
+
+00:06:33.415 --> 00:06:35.175
+conseguir el trabajo. pero sí agrega
+
+00:06:35.175 --> 00:06:37.895
+valor Redyt Siemens caché entonces?¿Cómo
+
+00:06:37.895 --> 00:06:40.215
+cambia esto con respecto al año 2024
+
+00:06:40.295 --> 00:06:41.855
+agregando machine Learning con Python.
+
+00:06:41.855 --> 00:06:43.255
+entonces qué significa esto? Sí que van a
+
+00:06:43.255 --> 00:06:45.255
+aprender nodi y van y van a aprender
+
+00:06:45.255 --> 00:06:47.255
+Java. también tienen que saber un poquito
+
+00:06:47.255 --> 00:06:48.895
+de Python. si van a aprender Python
+
+00:06:48.895 --> 00:06:50.815
+solamente. uf. se pueden ir completamente
+
+00:06:50.815 --> 00:06:52.695
+en profundidad con Python. ahora cómo
+
+00:06:52.695 --> 00:06:55.095
+ustedes pueden seguir esta ruta lo mismo
+
+00:06:55.095 --> 00:06:56.615
+de antes si ustedes se van con otra
+
+00:06:56.615 --> 00:06:58.176
+persona. yo no me enojo. pero si me
+
+00:06:58.176 --> 00:07:00.456
+quieren apoyar pueden hacerlo y yo estaré
+
+00:07:00.536 --> 00:07:02.056
+muy feliz y muy encantado porque así voy
+
+00:07:02.056 --> 00:07:03.616
+a poder seguir creando Este contenido
+
+00:07:03.616 --> 00:07:05.416
+para ustedes y lo pueden hacer. Por
+
+00:07:05.416 --> 00:07:07.056
+supuesto que es la Academia de hora
+
+00:07:07.056 --> 00:07:09.016
+Mundo. Así que vamos a venir acá a abrir
+
+00:07:09.016 --> 00:07:11.176
+el link. este video posiblemente lo estás
+
+00:07:11.176 --> 00:07:13.576
+viendo después de Navidad y acá tú vas a
+
+00:07:13.576 --> 00:07:15.576
+ver que yo estoy utilizando el cupón
+
+00:07:15.616 --> 00:07:18.096
+Navidad. Obviamente este ya no se
+
+00:07:18.096 --> 00:07:20.176
+encuentra disponible. el que se encuentra
+
+00:07:20.176 --> 00:07:22.656
+disponible es otro que se llama Summer.
+
+00:07:22.656 --> 00:07:24.297
+sale este cupón. te lo voy a dejar
+
+00:07:24.297 --> 00:07:26.217
+activado durante enero para que puedas
+
+00:07:26.217 --> 00:07:27.897
+acceder a un descuento cuando te
+
+00:07:27.897 --> 00:07:29.697
+inscribas en la Academia. Hola mundo.
+
+00:07:29.817 --> 00:07:31.897
+ahora sí continuamos con el video para
+
+00:07:31.897 --> 00:07:33.297
+venir a inscribirse. Si se quieren
+
+00:07:33.297 --> 00:07:34.937
+inscribir se vienen aquí a los planes.
+
+00:07:35.057 --> 00:07:36.577
+seleccionan el plan que ustedes quieran.
+
+00:07:36.577 --> 00:07:37.817
+miren aquí nosotros tenemos. Si pasa
+
+00:07:37.817 --> 00:07:39.817
+anual ustedes lo que hacen es que pagan
+
+00:07:39.817 --> 00:07:41.617
+al año una única vez y pueden acceder
+
+00:07:41.617 --> 00:07:43.297
+absolutamente a todo Este contenido. como
+
+00:07:43.297 --> 00:07:45.537
+si estuviesen pagando solamente 5 dólares
+
+00:07:45.537 --> 00:07:48.417
+al mes. pinchan acá en suscríbete y acá
+
+00:07:48.417 --> 00:07:51.058
+ustedes colocan en el Cupón Navidad.
+
+00:07:51.458 --> 00:07:54.138
+presionan enter y ya está ahí te aplico
+
+00:07:54.138 --> 00:07:55.698
+el descuento. pero yo no les quería
+
+00:07:55.698 --> 00:07:57.458
+mostrar eso. yo lo que quería mostrarles
+
+00:07:57.498 --> 00:08:00.418
+es aquí en rutas de aprendizaje. nos
+
+00:08:00.418 --> 00:08:02.058
+vamos a venir aquí a desarrollo back end.
+
+00:08:02.498 --> 00:08:04.218
+En desarrollo backend ustedes pueden
+
+00:08:04.218 --> 00:08:06.778
+elegir la ruta javascript. la ruta Python
+
+00:08:06.778 --> 00:08:08.538
+o también la ruta de Java. si es que se
+
+00:08:08.538 --> 00:08:09.938
+quieren asegurar con la que va a tener
+
+00:08:09.938 --> 00:08:11.658
+los contenidos más actualizados. De todo.
+
+00:08:11.658 --> 00:08:13.018
+de todo. de todo. Pueden elegir
+
+00:08:13.018 --> 00:08:15.058
+cualquiera en verdad. pero el vamos a
+
+00:08:15.058 --> 00:08:17.258
+continuar el año siguiente desarrollando
+
+00:08:17.258 --> 00:08:19.699
+ruta javascript y ruta de Python. Dentro
+
+00:08:19.699 --> 00:08:21.379
+de la ruta de Python. como pueden ver acá
+
+00:08:21.379 --> 00:08:23.179
+tenemos Ultimate Python que dura 18
+
+00:08:23.179 --> 00:08:25.339
+horas. Mismo sistema si es que ustedes
+
+00:08:25.339 --> 00:08:27.499
+quieren agregarle también el tiempo que
+
+00:08:27.499 --> 00:08:29.819
+les va a tomar resolver los ejercicios
+
+00:08:29.979 --> 00:08:31.379
+que se encuentran dentro de Ultimate
+
+00:08:31.379 --> 00:08:34.059
+Python de 18 horas. perfectamente podrían
+
+00:08:34.059 --> 00:08:36.779
+ser unas 3040 horas de estudio. Después
+
+00:08:36.779 --> 00:08:38.019
+de eso vamos a agregar yango a los
+
+00:08:38.019 --> 00:08:39.899
+fundamentos. Recuerden que este curso de
+
+00:08:39.899 --> 00:08:41.619
+Ultimate Python ya viene con una sección
+
+00:08:41.619 --> 00:08:42.979
+de yango con el cual ustedes ya pueden
+
+00:08:42.979 --> 00:08:44.940
+empezar a desarrollar estos cursos van a
+
+00:08:44.940 --> 00:08:47.220
+ser más profundos. Acá vamos a tener
+
+00:08:47.220 --> 00:08:48.660
+yango fundamento que va a ser algo de
+
+00:08:48.660 --> 00:08:50.260
+aproximadamente 7. 7 horas después
+
+00:08:50.260 --> 00:08:51.940
+tenemos jango tópicos avanzados. que
+
+00:08:51.940 --> 00:08:53.340
+también va a ser unas 7 horas. Tenemos
+
+00:08:53.340 --> 00:08:56.220
+SQLSQL tópicos avanzados. vamos a ver
+
+00:08:56.220 --> 00:08:57.660
+pruebas unitarias en Python y también
+
+00:08:57.660 --> 00:08:59.500
+testing en Yango. y también tenemos
+
+00:08:59.500 --> 00:09:01.700
+Ultimate git con github Co. Y también
+
+00:09:01.700 --> 00:09:03.820
+docker en el caso de Javascript. lo mismo
+
+00:09:03.820 --> 00:09:05.900
+Ultimate javascript. Ultimate typescript
+
+00:09:06.020 --> 00:09:08.980
+tenemos node SQL. fundamentos SQL
+
+00:09:08.980 --> 00:09:10.620
+tópicos avanzados. pruebas unitarias en
+
+00:09:10.620 --> 00:09:12.461
+Javascript. Testing and Note. Ultimate
+
+00:09:12.461 --> 00:09:14.941
+git con github y también docker. Así que
+
+00:09:14.941 --> 00:09:16.181
+en el caso de que quieran aprender y
+
+00:09:16.181 --> 00:09:17.981
+quieran aprender conmigo. pueden tomar
+
+00:09:17.981 --> 00:09:19.381
+cualquiera de estas dos rutas. la ruta de
+
+00:09:19.381 --> 00:09:21.301
+frontend. la ruta de backend y en la ruta
+
+00:09:21.301 --> 00:09:23.021
+de backend pueden elegir hasta el momento
+
+00:09:23.021 --> 00:09:24.781
+3 lenguajes que son Javascript. Python y
+
+00:09:24.781 --> 00:09:27.021
+también Java. Y con el cupón Navidad. por
+
+00:09:27.021 --> 00:09:28.541
+supuesto. para que puedan obtener un
+
+00:09:28.541 --> 00:09:30.261
+descuento. el descuento se va a mantener
+
+00:09:30.261 --> 00:09:32.581
+de por vida. siempre y cuando ustedes no
+
+00:09:32.581 --> 00:09:33.741
+cancelen la suscripción.
